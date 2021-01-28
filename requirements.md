@@ -2,4 +2,4 @@ In order to successfully run this project; pandas, numpy, seaborn and matplotlib
 
 In order to install these libraries, pip can be used:
 
-(In bash) `pip install pandas numpy seaborn matplotlib`
+(in bash) `pip install pandas numpy seaborn matplotlib`
